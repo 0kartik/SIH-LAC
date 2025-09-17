@@ -1,0 +1,583 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "When does the III B.Tech I Semester begin in 2025?",
+      "keywords": [
+        "start date",
+        "semester begin",
+        "academic calendar",
+        "III B.Tech"
+      ],
+      "answer": "The semester begins on 7 July 2025."
+    },
+    {
+      "id": 2,
+      "question": "What is the last working day of the semester?",
+      "keywords": [
+        "last day",
+        "semester end",
+        "academic calendar"
+      ],
+      "answer": "The semester ends on 4 December 2025, followed by end exams."
+    },
+    {
+      "id": 3,
+      "question": "What subjects are taught in III B.Tech I Sem CSE-B section?",
+      "keywords": [
+        "subjects",
+        "syllabus",
+        "CSE",
+        "coursework"
+      ],
+      "answer": "Subjects include: DAA, Computer Networks, Web Technologies, Data Analytics, Information Retrieval Systems (IRS), and Intellectual Property Rights (IPR)."
+    },
+    {
+      "id": 4,
+      "question": "How many credits are there in III B.Tech I Semester?",
+      "keywords": [
+        "credits",
+        "course load",
+        "subjects"
+      ],
+      "answer": "The semester has a total of 25 credits including theory, lab, and elective subjects."
+    },
+    {
+      "id": 5,
+      "question": "What is the minimum attendance required to appear for exams?",
+      "keywords": [
+        "attendance",
+        "rules",
+        "eligibility"
+      ],
+      "answer": "A minimum of 75% attendance is mandatory to be eligible for semester-end exams."
+    },
+    {
+      "id": 6,
+      "question": "When does the second semester begin after this one?",
+      "keywords": [
+        "next semester",
+        "II semester",
+        "academic schedule"
+      ],
+      "answer": "The II Semester begins on 5 December 2025, right after the I Semester ends."
+    },
+    {
+      "id": 7,
+      "question": "When is the Parent Teacher Meeting scheduled?",
+      "keywords": [
+        "PTM",
+        "Parent Teacher Meeting",
+        "meeting"
+      ],
+      "answer": "It is scheduled for 20 September 2025."
+    },
+    {
+      "id": 8,
+      "question": "How are holidays adjusted in the timetable?",
+      "keywords": [
+        "working saturday",
+        "holiday compensation",
+        "timetable adjustment"
+      ],
+      "answer": "Some working Saturdays are scheduled (e.g., 13 September 2025) to compensate for holidays."
+    },
+    {
+      "id": 9,
+      "question": "What is the NSS activity planned for this semester?",
+      "keywords": [
+        "NSS",
+        "blood donation",
+        "activity",
+        "event"
+      ],
+      "answer": "A Blood Donation Drive is planned in the second week of August 2025."
+    },
+    {
+      "id": 10,
+      "question": "Where can students check their daily class timetable?",
+      "keywords": [
+        "class schedule",
+        "timetable",
+        "section"
+      ],
+      "answer": "Each section (A, B, C, D) has a separate timetable published and distributed by the department."
+    },
+    {
+      "id": 11,
+      "question": "When are the first mid-term exams (CIE-I) scheduled?",
+      "keywords": [
+        "midterm",
+        "CIE",
+        "exam schedule",
+        "internal exams"
+      ],
+      "answer": "From 8 September to 12 September 2025."
+    },
+    {
+      "id": 12,
+      "question": "When are the second mid-term exams (CIE-II)?",
+      "keywords": [
+        "midterm",
+        "CIE",
+        "exam schedule",
+        "internal exams"
+      ],
+      "answer": "From 10 November to 14 November 2025."
+    },
+    {
+      "id": 13,
+      "question": "When will end-semester exams be held?",
+      "keywords": [
+        "end exams",
+        "semester exams",
+        "final exams",
+        "schedule"
+      ],
+      "answer": "From 24 November to 4 December 2025."
+    },
+    {
+      "id": 14,
+      "question": "What is the lab internal exam period?",
+      "keywords": [
+        "lab exams",
+        "practical exams",
+        "internal assessment"
+      ],
+      "answer": "From 28 August to 4 September 2025."
+    },
+    {
+      "id": 15,
+      "question": "What are the instructions for lab internals?",
+      "keywords": [
+        "lab instructions",
+        "dress code",
+        "ID card",
+        "rules"
+      ],
+      "answer": "Students must wear formal dress, bring ID card and observation notebooks, and avoid electronic gadgets."
+    },
+    {
+      "id": 16,
+      "question": "What is the re-registration process?",
+      "keywords": [
+        "re-registration",
+        "detention",
+        "backlog",
+        "fee payment"
+      ],
+      "answer": "Students with subject detentions must re-register between 1–4 September 2025, paying ₹3,000 per subject."
+    },
+    {
+      "id": 17,
+      "question": "What is the Code Tantra assessment?",
+      "keywords": [
+        "Code Tantra",
+        "assessment",
+        "placement eligibility",
+        "test"
+      ],
+      "answer": "A mandatory online technical assessment for III Year students to qualify for CRT (Campus Recruitment Training)."
+    },
+    {
+      "id": 18,
+      "question": "When are the Code Tantra assessments held?",
+      "keywords": [
+        "Code Tantra",
+        "schedule",
+        "dates"
+      ],
+      "answer": "Between 11 July and 18 July 2025 for all III Year branches."
+    },
+    {
+      "id": 19,
+      "question": "What happens if I fail the Code Tantra test?",
+      "keywords": [
+        "fail",
+        "remedial",
+        "Code Tantra consequence",
+        "placement training"
+      ],
+      "answer": "Students must attend remedial sessions, and failure to qualify may affect their placement training eligibility."
+    },
+    {
+      "id": 20,
+      "question": "What are the exam timings?",
+      "keywords": [
+        "exam timings",
+        "theory exam",
+        "lab exam",
+        "duration"
+      ],
+      "answer": "Theory exams: 1:30 PM – 3:30 PM | Lab internals: 12:55 PM – 3:55 PM (Afternoon)."
+    },
+    {
+      "id": 21,
+      "question": "When is Varalakshmi Vratam holiday?",
+      "keywords": [
+        "holiday",
+        "Varalakshmi Vratam",
+        "August"
+      ],
+      "answer": "8 August 2025."
+    },
+    {
+      "id": 22,
+      "question": "When is Ganesh Chaturthi holiday?",
+      "keywords": [
+        "holiday",
+        "Ganesh Chaturthi",
+        "August"
+      ],
+      "answer": "27 August 2025."
+    },
+    {
+      "id": 23,
+      "question": "When is Milad-un-Nabi holiday?",
+      "keywords": [
+        "holiday",
+        "Milad-un-Nabi",
+        "September"
+      ],
+      "answer": "5 September 2025."
+    },
+    {
+      "id": 24,
+      "question": "When is Ganesh Immersion holiday?",
+      "keywords": [
+        "holiday",
+        "Ganesh Immersion",
+        "September"
+      ],
+      "answer": "6 September 2025."
+    },
+    {
+      "id": 25,
+      "question": "When is the Dussehra Recess?",
+      "keywords": [
+        "recess",
+        "break",
+        "Dussehra",
+        "vacation"
+      ],
+      "answer": "From 29 September to 4 October 2025."
+    },
+    {
+      "id": 26,
+      "question": "When is the second Saturday holiday in August?",
+      "keywords": [
+        "holiday",
+        "second saturday",
+        "August"
+      ],
+      "answer": "9 August 2025."
+    },
+    {
+      "id": 27,
+      "question": "Which Saturday is marked as a working day?",
+      "keywords": [
+        "working saturday",
+        "compensation"
+      ],
+      "answer": "13 September 2025 is a working Saturday."
+    },
+    {
+      "id": 28,
+      "question": "Are festivals given full-day holidays?",
+      "keywords": [
+        "holiday policy",
+        "festival"
+      ],
+      "answer": "Yes, major festivals like Ganesh Chaturthi, Milad-un-Nabi, and Dussehra have full-day holidays."
+    },
+    {
+      "id": 29,
+      "question": "Are there special events for Teacher’s Day?",
+      "keywords": [
+        "Teacher's Day",
+        "event",
+        "celebration"
+      ],
+      "answer": "Yes, Teacher’s Day (5 September) usually includes internal college celebrations, though it coincides with a holiday in 2025."
+    },
+    {
+      "id": 30,
+      "question": "Are NSS activities considered holidays?",
+      "keywords": [
+        "NSS",
+        "voluntary",
+        "event",
+        "not holiday"
+      ],
+      "answer": "No, they are voluntary events conducted during college hours or weekends."
+    },
+    {
+      "id": 31,
+      "question": "What is the transport fee deadline for III Year students?",
+      "keywords": [
+        "transport",
+        "bus",
+        "fee",
+        "deadline"
+      ],
+      "answer": "The deadline is 18 July 2025."
+    },
+    {
+      "id": 32,
+      "question": "Is there any concession for final-year students?",
+      "keywords": [
+        "transport",
+        "fee",
+        "concession",
+        "final year"
+      ],
+      "answer": "Yes, IV Year students receive a 75% fee concession on transport fees."
+    },
+    {
+      "id": 33,
+      "question": "What is the penalty for late fee payment?",
+      "keywords": [
+        "late fee",
+        "penalty",
+        "fine",
+        "hall ticket"
+      ],
+      "answer": "Late fee payment can lead to fines and restrictions on hall ticket issuance."
+    },
+    {
+      "id": 34,
+      "question": "When did Campus Recruitment Training (CRT) begin?",
+      "keywords": [
+        "CRT",
+        "start date",
+        "placement training"
+      ],
+      "answer": "CRT started on 7 July 2025."
+    },
+    {
+      "id": 35,
+      "question": "What is the structure of CRT?",
+      "keywords": [
+        "CRT structure",
+        "aptitude",
+        "coding",
+        "interview"
+      ],
+      "answer": "CRT is conducted weekly, focusing on aptitude, coding, and interview preparation, integrated into the timetable."
+    },
+    {
+      "id": 36,
+      "question": "Do students need to qualify for CRT?",
+      "keywords": [
+        "CRT eligibility",
+        "Code Tantra",
+        "qualify"
+      ],
+      "answer": "Yes, students must pass the Code Tantra assessment to be eligible for CRT."
+    },
+    {
+      "id": 37,
+      "question": "What accreditation does Sreyas Institute hold?",
+      "keywords": [
+        "accreditation",
+        "NAAC",
+        "NBA"
+      ],
+      "answer": "The college is NAAC A-Grade accredited and has NBA accreditation for major programs."
+    },
+    {
+      "id": 38,
+      "question": "What happens if I don’t pay transport fees on time?",
+      "keywords": [
+        "transport fee",
+        "consequence",
+        "bus service"
+      ],
+      "answer": "Bus services will not be provided, and you may face restrictions in administrative services."
+    },
+    {
+      "id": 39,
+      "question": "Is attendance mandatory for CRT sessions?",
+      "keywords": [
+        "CRT",
+        "attendance",
+        "mandatory",
+        "compulsory"
+      ],
+      "answer": "Yes, attendance is compulsory as it is part of the curriculum."
+    },
+    {
+      "id": 40,
+      "question": "Are circulars communicated only via notice boards?",
+      "keywords": [
+        "circulars",
+        "notices",
+        "communication",
+        "portal"
+      ],
+      "answer": "No, they are also shared via college portals and sometimes through WhatsApp groups."
+    },
+    {
+      "id": 41,
+      "question": "Who is eligible for scholarship renewal in 2025?",
+      "keywords": [
+        "scholarship",
+        "eligibility",
+        "renewal",
+        "categories"
+      ],
+      "answer": "Students from BC, EBC, Minority, SC, and ST categories are eligible, subject to academic and attendance criteria."
+    },
+    {
+      "id": 42,
+      "question": "What is the last date to apply for scholarship renewal?",
+      "keywords": [
+        "scholarship",
+        "deadline",
+        "last date",
+        "apply"
+      ],
+      "answer": "The deadline is 30 August 2025."
+    },
+    {
+      "id": 43,
+      "question": "What documents are required for scholarship renewal?",
+      "keywords": [
+        "documents",
+        "scholarship",
+        "required",
+        "application"
+      ],
+      "answer": "Previous year’s marks memo, income certificate, caste certificate, Aadhaar card, and bank account details."
+    },
+    {
+      "id": 44,
+      "question": "Where should I submit the scholarship application?",
+      "keywords": [
+        "apply",
+        "scholarship",
+        "submission",
+        "process"
+      ],
+      "answer": "Apply online first, then submit a hard copy with documents at the college scholarship section."
+    },
+    {
+      "id": 45,
+      "question": "What happens if I miss the scholarship deadline?",
+      "keywords": [
+        "miss deadline",
+        "late application",
+        "scholarship consequence"
+      ],
+      "answer": "You will not be considered for renewal, and no late applications are accepted."
+    },
+    {
+      "id": 46,
+      "question": "What is fee reimbursement?",
+      "keywords": [
+        "fee reimbursement",
+        "definition",
+        "government scheme"
+      ],
+      "answer": "Fee reimbursement is a government scheme that reimburses tuition fees for eligible students."
+    },
+    {
+      "id": 47,
+      "question": "Who can apply for fee reimbursement?",
+      "keywords": [
+        "fee reimbursement",
+        "eligibility",
+        "apply"
+      ],
+      "answer": "BC, EBC, Minority, SC, and ST students who meet eligibility criteria (income, attendance, academics)."
+    },
+    {
+      "id": 48,
+      "question": "Does fee reimbursement cover exam fees?",
+      "keywords": [
+        "exam fees",
+        "fee reimbursement",
+        "coverage"
+      ],
+      "answer": "No, exam fees must usually be paid separately by the student."
+    },
+    {
+      "id": 49,
+      "question": "Can scholarship and fee reimbursement be availed together?",
+      "keywords": [
+        "both",
+        "scholarship and reimbursement",
+        "avail together"
+      ],
+      "answer": "Yes, students who qualify can receive both."
+    },
+    {
+      "id": 50,
+      "question": "Who to contact for scholarship-related help?",
+      "keywords": [
+        "contact",
+        "help",
+        "scholarship in-charge",
+        "support"
+      ],
+      "answer": "The college scholarship in-charge or administrative office can provide guidance and resolve queries."
+    },
+    {
+      "id": 51,
+      "question": "How many books can a student issue from the library?",
+      "keywords": [
+        "library",
+        "books",
+        "issue"
+      ],
+      "answer": "A student can issue up to 3 books at a time for a period of 15 days."
+    },
+    {
+      "id": 52,
+      "question": "What happens if a student returns a library book late?",
+      "keywords": [
+        "library",
+        "fine",
+        "rules"
+      ],
+      "answer": "A fine of ₹5 per day will be charged for late return of library books."
+    },
+    {
+      "id": 53,
+      "question": "Hi",
+      "keywords": [
+        "greeting",
+        "hello",
+        "hi"
+      ],
+      "answer": "Hello! How can I help you today?"
+    },
+    {
+      "id": 54,
+      "question": "I need help",
+      "keywords": [
+        "help",
+        "support"
+      ],
+      "answer": "Sure! Please tell me your query, I’ll guide you."
+    },
+    {
+      "id": 55,
+      "question": "Thank you",
+      "keywords": [
+        "gratitude",
+        "thanks"
+      ],
+      "answer": "You’re welcome! Happy to help anytime."
+    },
+    {
+      "id": 56,
+      "question": "Bye",
+      "keywords": [
+        "farewell",
+        "bye"
+      ],
+      "answer": "Goodbye! Have a great day ahead."
+    }
+  ]
+}
